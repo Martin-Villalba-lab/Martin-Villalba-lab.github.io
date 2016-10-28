@@ -1,0 +1,35 @@
+/* Lab website specific styles */
+
+
+/* Publications */
+.img-journal-cover {
+	height:160px ;
+}
+
+.div-journal-cover{
+	text-align: center;
+}
+
+.paper-info-list {
+	line-height: 2
+}
+
+.paper-info-list-item {
+	margin: 0 0 10px 0 ;
+}
+
+.paper-authors {
+	font-weight: bold;
+}
+
+.footnote-paper {
+	font-size: 80%;
+	font-style: italic;
+	text-align: right;
+}
+
+
+/* Lab members */
+.img-lab-member {
+	height:300px ;
+}
