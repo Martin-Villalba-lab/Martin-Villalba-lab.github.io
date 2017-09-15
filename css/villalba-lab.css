@@ -40,6 +40,24 @@
 	width:100%;
 }
 
+
+/* Style for caption of carousel */
+.carousel-caption
+			{
+				position: absolute;
+				right: 0;
+				bottom: 0;
+				left: 0;
+				z-index: 10;
+				padding-top: 20px;
+				padding-bottom: 50px;
+				color: #fff;
+				text-align: center;
+				background: rgba(0,0,0,0.4);
+			}
+
+
+
 /* Style for the overlay logo on the index site */
 .overlaylogo {
 	background: url(images/DKFZ.gif) top left no-repeat;
