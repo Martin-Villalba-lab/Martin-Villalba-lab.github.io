@@ -1,5 +1,13 @@
 /* Lab website specific styles */
 
+/* Twitter panel on front page */
+.twitter-panel-heading
+			{
+				text-align: center;
+				background-color: #00ACED;
+			}
+
+
 /* Publications */
 .img-journal-cover {
 	height:200px ;
