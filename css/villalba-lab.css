@@ -1,12 +1,24 @@
 /* Lab website specific styles */
 
 /* Twitter panel on front page */
-.twitter-panel-heading
-			{
-				text-align: center;
-				background-color: #00ACED;
-			}
+.twitter-panel-heading {
+	text-align: center;
+	background-color: #00ACED;
+}
 
+.numberCircle {
+  display: inline-block;
+  border-radius: 50%;
+  behavior: url(PIE.htc);
+  /* remove if you don't care about IE8 */
+  width: 18px;
+  height: 18px;
+  padding: 4px;
+  background: #FF0000;
+  text-align: center;
+  font: 10px Arial, sans-serif;
+  color: #FFFFFF;
+}
 
 /* Publications */
 .img-journal-cover {
